@@ -24,14 +24,5 @@ const ulElementAfter = document.querySelector(".gallery");
 console.dir(ulElementAfter);
 
 
-/*const liElement = document.createElement("li");
 
-const image = document.createElement("img");
-image.src = 'https://images.pexels.com/photos/140134/pexels-photo-140134.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260';
-image.alt = 'White and Black Long Fur Cat';
-//image.style.display = 
-  
-console.log(ulElement)
-
-const makeImages = image => {}*/
 
