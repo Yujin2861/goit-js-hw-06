@@ -17,7 +17,7 @@ function onTargetBtn(event) {
   console.log(`click`);
 
   let color = getRandomHexColor();
-  console.log(color);
+  
   body.style.backgroundColor = color;
   valueColor.textContent = color;
 }
